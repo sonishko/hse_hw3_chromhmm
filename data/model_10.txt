@@ -1,0 +1,291 @@
+10	9	E	-4857293.929813678	200
+probinit	1	7.98291263181128E-245
+probinit	2	8.819261452289835E-96
+probinit	3	0.9959107092687255
+probinit	4	0.0
+probinit	5	9.370842711890744E-162
+probinit	6	0.0
+probinit	7	0.0
+probinit	8	0.0
+probinit	9	0.004089290731274458
+probinit	10	3.529641511058191E-301
+transitionprobs	1	1	0.8964359776892205
+transitionprobs	1	2	0.09210054816126718
+transitionprobs	1	3	3.868955696898102E-5
+transitionprobs	1	4	0.0
+transitionprobs	1	5	9.428912812078184E-4
+transitionprobs	1	6	0.0027551408236768885
+transitionprobs	1	7	1.668279681199586E-4
+transitionprobs	1	8	0.004612938829520663
+transitionprobs	1	9	2.5987314196334075E-4
+transitionprobs	1	10	0.0026871125480549393
+transitionprobs	2	1	0.008063218802749784
+transitionprobs	2	2	0.9722130032558571
+transitionprobs	2	3	0.009934928186011292
+transitionprobs	2	4	0.0
+transitionprobs	2	5	0.002266947582141714
+transitionprobs	2	6	0.001078677796257349
+transitionprobs	2	7	0.0
+transitionprobs	2	8	0.0
+transitionprobs	2	9	0.0
+transitionprobs	2	10	0.006443224376982656
+transitionprobs	3	1	2.669100797596613E-7
+transitionprobs	3	2	0.0014299441679067547
+transitionprobs	3	3	0.987250461625176
+transitionprobs	3	4	7.514910297774917E-4
+transitionprobs	3	5	0.00598035050459654
+transitionprobs	3	6	0.0012528720227820622
+transitionprobs	3	7	5.5844925502818286E-5
+transitionprobs	3	8	1.839096585611595E-4
+transitionprobs	3	9	2.8802920171954085E-5
+transitionprobs	3	10	0.003066056235445602
+transitionprobs	4	1	0.0
+transitionprobs	4	2	0.0
+transitionprobs	4	3	0.006795704141184975
+transitionprobs	4	4	0.9750236167187443
+transitionprobs	4	5	0.01340530779066722
+transitionprobs	4	6	0.0020424326644044428
+transitionprobs	4	7	4.196653994976702E-4
+transitionprobs	4	8	2.191341096352566E-4
+transitionprobs	4	9	3.793491119419495E-5
+transitionprobs	4	10	0.002056204264672124
+transitionprobs	5	1	3.0405766527083673E-4
+transitionprobs	5	2	0.009122209706725518
+transitionprobs	5	3	0.16824825505465615
+transitionprobs	5	4	0.04373139643595393
+transitionprobs	5	5	0.5991358398700897
+transitionprobs	5	6	0.15219876357949033
+transitionprobs	5	7	0.02264660923978446
+transitionprobs	5	8	3.3856055953653376E-4
+transitionprobs	5	9	1.1663492062721697E-4
+transitionprobs	5	10	0.004157672967865562
+transitionprobs	6	1	0.0019441428508623277
+transitionprobs	6	2	0.007932770094475511
+transitionprobs	6	3	0.06033303596754549
+transitionprobs	6	4	0.011574793147010758
+transitionprobs	6	5	0.2639038670846358
+transitionprobs	6	6	0.526196997029483
+transitionprobs	6	7	0.10447916781522158
+transitionprobs	6	8	0.01703669705940774
+transitionprobs	6	9	0.0012068646477570014
+transitionprobs	6	10	0.005391664303600693
+transitionprobs	7	1	1.6847284729613E-4
+transitionprobs	7	2	0.0
+transitionprobs	7	3	0.0061243026156271
+transitionprobs	7	4	0.006389482808756908
+transitionprobs	7	5	0.08777295886331829
+transitionprobs	7	6	0.23092070622464894
+transitionprobs	7	7	0.5567241030191002
+transitionprobs	7	8	0.10225223346782296
+transitionprobs	7	9	0.00647134661398692
+transitionprobs	7	10	0.0031763935394424586
+transitionprobs	8	1	0.007087988390511955
+transitionprobs	8	2	0.0
+transitionprobs	8	3	0.022765883050299966
+transitionprobs	8	4	0.00369880182918087
+transitionprobs	8	5	0.001252972153165471
+transitionprobs	8	6	0.04611128191047303
+transitionprobs	8	7	0.12337175507342034
+transitionprobs	8	8	0.6477908260516785
+transitionprobs	8	9	0.14376339267897098
+transitionprobs	8	10	0.004157098862298836
+transitionprobs	9	1	0.001721240294325293
+transitionprobs	9	2	0.002516176205331478
+transitionprobs	9	3	0.007771979190365331
+transitionprobs	9	4	0.0019241311664424778
+transitionprobs	9	5	0.0013804142016977787
+transitionprobs	9	6	0.008885855104767613
+transitionprobs	9	7	0.018824113309139974
+transitionprobs	9	8	0.3659300699736537
+transitionprobs	9	9	0.5888653084321154
+transitionprobs	9	10	0.002180712122161113
+transitionprobs	10	1	0.004809945757517345
+transitionprobs	10	2	0.10692427668051435
+transitionprobs	10	3	0.3557715898203257
+transitionprobs	10	4	0.028445110688994333
+transitionprobs	10	5	0.01785329225091453
+transitionprobs	10	6	0.01263622719437247
+transitionprobs	10	7	0.003052331476778818
+transitionprobs	10	8	0.0038792586713296017
+transitionprobs	10	9	5.933120070215042E-4
+transitionprobs	10	10	0.4660346554522315
+emissionprobs	1	0	CTCF	0	0.9722031037287319
+emissionprobs	1	0	CTCF	1	0.02779689627126813
+emissionprobs	1	1	H2AZ	0	1.0
+emissionprobs	1	1	H2AZ	1	0.0
+emissionprobs	1	2	H3K27me3	0	0.22008409281698194
+emissionprobs	1	2	H3K27me3	1	0.7799159071830182
+emissionprobs	1	3	H3K36me3	0	0.9994851172880898
+emissionprobs	1	3	H3K36me3	1	5.148827119101987E-4
+emissionprobs	1	4	H3K4me1	0	0.9569763697417926
+emissionprobs	1	4	H3K4me1	1	0.043023630258207525
+emissionprobs	1	5	H3K4me2	0	0.8655128757819457
+emissionprobs	1	5	H3K4me2	1	0.13448712421805425
+emissionprobs	1	6	H3K9ac	0	0.9902476532843602
+emissionprobs	1	6	H3K9ac	1	0.00975234671563991
+emissionprobs	1	7	H4K20me1	0	1.0
+emissionprobs	1	7	H4K20me1	1	0.0
+emissionprobs	1	8	POL2BA	0	1.0
+emissionprobs	1	8	POL2BA	1	0.0
+emissionprobs	2	0	CTCF	0	0.9981659448154226
+emissionprobs	2	0	CTCF	1	0.0018340551845773185
+emissionprobs	2	1	H2AZ	0	1.0
+emissionprobs	2	1	H2AZ	1	0.0
+emissionprobs	2	2	H3K27me3	0	0.9264338689472836
+emissionprobs	2	2	H3K27me3	1	0.07356613105271641
+emissionprobs	2	3	H3K36me3	0	0.9999309727148644
+emissionprobs	2	3	H3K36me3	1	6.902728513556018E-5
+emissionprobs	2	4	H3K4me1	0	0.9990814402906001
+emissionprobs	2	4	H3K4me1	1	9.185597093999269E-4
+emissionprobs	2	5	H3K4me2	0	0.9997181107981431
+emissionprobs	2	5	H3K4me2	1	2.8188920185685345E-4
+emissionprobs	2	6	H3K9ac	0	0.9996505489806021
+emissionprobs	2	6	H3K9ac	1	3.494510193977808E-4
+emissionprobs	2	7	H4K20me1	0	1.0
+emissionprobs	2	7	H4K20me1	1	0.0
+emissionprobs	2	8	POL2BA	0	1.0
+emissionprobs	2	8	POL2BA	1	0.0
+emissionprobs	3	0	CTCF	0	0.9990884829672068
+emissionprobs	3	0	CTCF	1	9.115170327932488E-4
+emissionprobs	3	1	H2AZ	0	1.0
+emissionprobs	3	1	H2AZ	1	0.0
+emissionprobs	3	2	H3K27me3	0	0.998005886206233
+emissionprobs	3	2	H3K27me3	1	0.0019941137937670517
+emissionprobs	3	3	H3K36me3	0	0.9989915224272286
+emissionprobs	3	3	H3K36me3	1	0.0010084775727714345
+emissionprobs	3	4	H3K4me1	0	0.9997227907815565
+emissionprobs	3	4	H3K4me1	1	2.7720921844348096E-4
+emissionprobs	3	5	H3K4me2	0	0.9998004781381203
+emissionprobs	3	5	H3K4me2	1	1.9952186187963903E-4
+emissionprobs	3	6	H3K9ac	0	0.9997438422684378
+emissionprobs	3	6	H3K9ac	1	2.5615773156227286E-4
+emissionprobs	3	7	H4K20me1	0	1.0
+emissionprobs	3	7	H4K20me1	1	0.0
+emissionprobs	3	8	POL2BA	0	1.0
+emissionprobs	3	8	POL2BA	1	0.0
+emissionprobs	4	0	CTCF	0	0.9912197005033957
+emissionprobs	4	0	CTCF	1	0.008780299496604256
+emissionprobs	4	1	H2AZ	0	1.0
+emissionprobs	4	1	H2AZ	1	0.0
+emissionprobs	4	2	H3K27me3	0	0.9997088581188089
+emissionprobs	4	2	H3K27me3	1	2.91141881191174E-4
+emissionprobs	4	3	H3K36me3	0	0.7846519941715532
+emissionprobs	4	3	H3K36me3	1	0.21534800582844676
+emissionprobs	4	4	H3K4me1	0	0.9954674910289981
+emissionprobs	4	4	H3K4me1	1	0.004532508971001757
+emissionprobs	4	5	H3K4me2	0	0.99952103274647
+emissionprobs	4	5	H3K4me2	1	4.789672535299389E-4
+emissionprobs	4	6	H3K9ac	0	0.9985701258994178
+emissionprobs	4	6	H3K9ac	1	0.0014298741005822637
+emissionprobs	4	7	H4K20me1	0	1.0
+emissionprobs	4	7	H4K20me1	1	0.0
+emissionprobs	4	8	POL2BA	0	1.0
+emissionprobs	4	8	POL2BA	1	0.0
+emissionprobs	5	0	CTCF	0	0.9774705234331145
+emissionprobs	5	0	CTCF	1	0.02252947656688554
+emissionprobs	5	1	H2AZ	0	1.0
+emissionprobs	5	1	H2AZ	1	0.0
+emissionprobs	5	2	H3K27me3	0	0.9984262433251522
+emissionprobs	5	2	H3K27me3	1	0.001573756674847769
+emissionprobs	5	3	H3K36me3	0	0.9411416199850243
+emissionprobs	5	3	H3K36me3	1	0.05885838001497568
+emissionprobs	5	4	H3K4me1	0	0.33416405279687234
+emissionprobs	5	4	H3K4me1	1	0.6658359472031277
+emissionprobs	5	5	H3K4me2	0	0.9796362904968478
+emissionprobs	5	5	H3K4me2	1	0.020363709503152274
+emissionprobs	5	6	H3K9ac	0	0.9827422818469417
+emissionprobs	5	6	H3K9ac	1	0.017257718153058373
+emissionprobs	5	7	H4K20me1	0	1.0
+emissionprobs	5	7	H4K20me1	1	0.0
+emissionprobs	5	8	POL2BA	0	1.0
+emissionprobs	5	8	POL2BA	1	0.0
+emissionprobs	6	0	CTCF	0	0.9406710759500545
+emissionprobs	6	0	CTCF	1	0.05932892404994552
+emissionprobs	6	1	H2AZ	0	1.0
+emissionprobs	6	1	H2AZ	1	0.0
+emissionprobs	6	2	H3K27me3	0	0.9955777054087243
+emissionprobs	6	2	H3K27me3	1	0.0044222945912757656
+emissionprobs	6	3	H3K36me3	0	0.9461934046901467
+emissionprobs	6	3	H3K36me3	1	0.05380659530985328
+emissionprobs	6	4	H3K4me1	0	0.17771908574312492
+emissionprobs	6	4	H3K4me1	1	0.8222809142568751
+emissionprobs	6	5	H3K4me2	0	0.04679230040115302
+emissionprobs	6	5	H3K4me2	1	0.953207699598847
+emissionprobs	6	6	H3K9ac	0	0.987685089549976
+emissionprobs	6	6	H3K9ac	1	0.012314910450023982
+emissionprobs	6	7	H4K20me1	0	1.0
+emissionprobs	6	7	H4K20me1	1	0.0
+emissionprobs	6	8	POL2BA	0	1.0
+emissionprobs	6	8	POL2BA	1	0.0
+emissionprobs	7	0	CTCF	0	0.8950171747239386
+emissionprobs	7	0	CTCF	1	0.10498282527606136
+emissionprobs	7	1	H2AZ	0	1.0
+emissionprobs	7	1	H2AZ	1	0.0
+emissionprobs	7	2	H3K27me3	0	0.9960528409656668
+emissionprobs	7	2	H3K27me3	1	0.003947159034333133
+emissionprobs	7	3	H3K36me3	0	0.9011201937077206
+emissionprobs	7	3	H3K36me3	1	0.09887980629227948
+emissionprobs	7	4	H3K4me1	0	0.01767318979506018
+emissionprobs	7	4	H3K4me1	1	0.9823268102049398
+emissionprobs	7	5	H3K4me2	0	0.0450644757510957
+emissionprobs	7	5	H3K4me2	1	0.9549355242489043
+emissionprobs	7	6	H3K9ac	0	0.07490911827899027
+emissionprobs	7	6	H3K9ac	1	0.9250908817210096
+emissionprobs	7	7	H4K20me1	0	1.0
+emissionprobs	7	7	H4K20me1	1	0.0
+emissionprobs	7	8	POL2BA	0	1.0
+emissionprobs	7	8	POL2BA	1	0.0
+emissionprobs	8	0	CTCF	0	0.8611772740863464
+emissionprobs	8	0	CTCF	1	0.13882272591365352
+emissionprobs	8	1	H2AZ	0	1.0
+emissionprobs	8	1	H2AZ	1	0.0
+emissionprobs	8	2	H3K27me3	0	0.9808694932020942
+emissionprobs	8	2	H3K27me3	1	0.019130506797905806
+emissionprobs	8	3	H3K36me3	0	0.9689573607154254
+emissionprobs	8	3	H3K36me3	1	0.031042639284574645
+emissionprobs	8	4	H3K4me1	0	0.9634210485401433
+emissionprobs	8	4	H3K4me1	1	0.036578951459856665
+emissionprobs	8	5	H3K4me2	0	2.414359739809823E-8
+emissionprobs	8	5	H3K4me2	1	0.9999999758564027
+emissionprobs	8	6	H3K9ac	0	0.10902936071617968
+emissionprobs	8	6	H3K9ac	1	0.8909706392838204
+emissionprobs	8	7	H4K20me1	0	1.0
+emissionprobs	8	7	H4K20me1	1	0.0
+emissionprobs	8	8	POL2BA	0	1.0
+emissionprobs	8	8	POL2BA	1	0.0
+emissionprobs	9	0	CTCF	0	0.9167543583834962
+emissionprobs	9	0	CTCF	1	0.08324564161650376
+emissionprobs	9	1	H2AZ	0	1.0
+emissionprobs	9	1	H2AZ	1	0.0
+emissionprobs	9	2	H3K27me3	0	0.9965076783151202
+emissionprobs	9	2	H3K27me3	1	0.0034923216848799198
+emissionprobs	9	3	H3K36me3	0	0.996747975816157
+emissionprobs	9	3	H3K36me3	1	0.003252024183842982
+emissionprobs	9	4	H3K4me1	0	0.9998740844111931
+emissionprobs	9	4	H3K4me1	1	1.259155888069046E-4
+emissionprobs	9	5	H3K4me2	0	1.0
+emissionprobs	9	5	H3K4me2	1	7.133749535085074E-19
+emissionprobs	9	6	H3K9ac	0	0.22160194973452468
+emissionprobs	9	6	H3K9ac	1	0.7783980502654753
+emissionprobs	9	7	H4K20me1	0	1.0
+emissionprobs	9	7	H4K20me1	1	0.0
+emissionprobs	9	8	POL2BA	0	1.0
+emissionprobs	9	8	POL2BA	1	0.0
+emissionprobs	10	0	CTCF	0	0.08934150068586498
+emissionprobs	10	0	CTCF	1	0.910658499314135
+emissionprobs	10	1	H2AZ	0	1.0
+emissionprobs	10	1	H2AZ	1	0.0
+emissionprobs	10	2	H3K27me3	0	0.9845238086444987
+emissionprobs	10	2	H3K27me3	1	0.015476191355501231
+emissionprobs	10	3	H3K36me3	0	0.9822241269390166
+emissionprobs	10	3	H3K36me3	1	0.017775873060983396
+emissionprobs	10	4	H3K4me1	0	0.9532126093158346
+emissionprobs	10	4	H3K4me1	1	0.046787390684165375
+emissionprobs	10	5	H3K4me2	0	0.9452300695524842
+emissionprobs	10	5	H3K4me2	1	0.05476993044751575
+emissionprobs	10	6	H3K9ac	0	0.9925200192942354
+emissionprobs	10	6	H3K9ac	1	0.007479980705764686
+emissionprobs	10	7	H4K20me1	0	1.0
+emissionprobs	10	7	H4K20me1	1	0.0
+emissionprobs	10	8	POL2BA	0	1.0
+emissionprobs	10	8	POL2BA	1	0.0
